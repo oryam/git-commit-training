@@ -225,6 +225,7 @@ Puis :
 - Pull Request sur GitHub
 - Revue rapide
 - Merge dans master
+- Suppression de la branche, si plus besoin
 
 
 ## Bonnes pratiques attendues
